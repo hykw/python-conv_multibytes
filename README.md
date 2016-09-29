@@ -1,1 +1,1 @@
-# python-conv_multibytes
+# python-conv_multibytesマルチバイト系の変換メソッド- zenNum2hanNum: 全角数字を半角数字に変換する- zenAlphaNum2hanAlphaNum: 全角英数字を半角英数字に変換する- hanKana2zenKana: 半角カナを全角カナに変換する- hira2kana: 全角ひらがなを全角カタカナに変換する- kana2hira: 全角カタカナを全角ひらがなに変換する
